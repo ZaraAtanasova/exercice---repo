@@ -1,6 +1,6 @@
-# exercice-repo
+# exercice---repo
+Repo made for exercise
 I. TortoiseGit-
-Repo made for exercise,
 This will make a conflict! (local),
 Making some changes here! (Conflict),
 keep both files and delete only the marks,
@@ -9,4 +9,4 @@ change from branch develop,
 Change from master,
 change again from branch develop,
 II. GitBash-
-One more change
+One more change,
