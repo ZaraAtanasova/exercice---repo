@@ -10,3 +10,4 @@ Change from master,
 change again from branch develop,
 II. GitBash-
 One more change,
+Conflict,
