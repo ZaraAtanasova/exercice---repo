@@ -4,5 +4,5 @@ This will make a conflict! (local)
 Making some changes here! (Conflict)
 -keep both files and delete only the marks; 
 -but we also resolved the conflict!!!
----> change from branch develop
+---> change from branch develop.
 Change from master
