@@ -1,3 +1,2 @@
 New file
 Just test
-TEST
