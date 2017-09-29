@@ -12,4 +12,5 @@ II. GitBash-
 One more change,
 Make conflict,
 Conflict,
-Some text from master
+Some text from master,
+Change from branch gitbashbranch,
